@@ -1,0 +1,20 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+body {
+	background-image: url('file://../images/dark-wood-and-vegetables.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+p{
+	color: yellow;
+}
